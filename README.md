@@ -80,7 +80,7 @@ I'm a passionate Software Engineer with expertise in cloud technologies, distrib
 
 - 📧 Email: [saiteasmithakaja@gmail.com](mailto:saiteasmithakaja@gmail.com)
 - 📱 Phone: +1(832) 709-4071
-- 🌐 LinkedIn: [Sai Teasmitha Kaja](https://linkedin.com/in/saiteasmithakaja)
+- 🌐 LinkedIn: [Sai Teasmitha Kaja](https://www.linkedin.com/in/sai-teasmitha-kaja-b33382210/)
 
 ---
 
