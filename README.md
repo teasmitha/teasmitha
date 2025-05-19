@@ -75,9 +75,6 @@ I'm a passionate Software Engineer with expertise in cloud technologies, distrib
 - Merit Scholarship, University of Houston (Aug 2023): $5000 with in-state tuition rate
 - Merit Scholarship, JNTU (Nov 2022): $3000 for outstanding academic performance
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saiteasmithakaja&show_icons=true&theme=radical)
 
 ## 📫 Get in Touch
 
