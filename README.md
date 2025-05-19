@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sai Teasmitha Kaja
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)]([https://linkedin.com/in/saiteasmithakaja](https://www.linkedin.com/in/sai-teasmitha-kaja-b33382210/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/sai-teasmitha-kaja-b33382210/)
 [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:saiteasmithakaja@gmail.com)
 [![Location](https://img.shields.io/badge/Location-Houston,%20TX-green)](https://www.google.com/maps/place/Houston,+TX)
 
