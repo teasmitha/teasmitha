@@ -16,7 +16,7 @@ I'm a passionate Software Engineer with expertise in cloud technologies, distrib
 - Developed high-performance front-end features using Angular and jQuery
 
 ### Graduate Assistant @ University of Houston (Aug 2023 - April 2024)
-- Developed distributed Python pipeline using AWS S3 for log aggregation
+- Developed a distributed Python pipeline using AWS S3 for log aggregation
 - Optimized SQL queries, reducing academic report generation time by 40%
 - Built and integrated testing pipelines for system resilience
 
