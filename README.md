@@ -10,12 +10,9 @@ I'm a passionate Software Engineer with expertise in cloud technologies, distrib
 
 ## 💼 Professional Experience
 
-### Software Engineer @ Medpharm (May 2024 - Present)
-- Designed and implemented cloud-based healthcare data management solutions using AWS and Azure
-- Optimized data processing pipelines, reducing system latency by 40%
-- Developed high-performance front-end features using Angular and jQuery
 
-### Graduate Assistant @ University of Houston (Aug 2023 - April 2024)
+
+### Backend Developer @ University of Houston (Aug 2023 - May 2025)
 - Developed a distributed Python pipeline using AWS S3 for log aggregation
 - Optimized SQL queries, reducing academic report generation time by 40%
 - Built and integrated testing pipelines for system resilience
