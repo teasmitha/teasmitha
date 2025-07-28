@@ -17,12 +17,12 @@ I'm a passionate Software Engineer with expertise in cloud technologies, distrib
 - Optimized SQL queries, reducing academic report generation time by 40%
 - Built and integrated testing pipelines for system resilience
 
-### Software Engineer Intern @ Dell Technologies (May 2023 - Aug 2023)
+### Software Engineer @ Dell Technologies (May 2023 - Aug 2023)
 - Developed backend microservices using Java and AWS Lambda
 - Automated CI/CD workflows with GitHub Actions and Jenkins
 - Integrated Microsoft Azure services for geo-redundant deployments
 
-### Software Engineer Intern @ Pragmatiq Systems (Jan 2022 - June 2023)
+### Software Engineer  @ Infosys (Jan 2022 - May 2023)
 - Developed RESTful APIs and backend services in Java and Spring Boot
 - Built automation scripts for data validation and synchronization
 - Implemented secure authentication workflows using OAuth
